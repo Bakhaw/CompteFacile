@@ -1,9 +1,9 @@
 {
-  "name": "avocado",
+  "name": "CompteFacile",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Bakhaw/React-app-boilerplate.git",
-  "author": "Faissal",
+  "repository": "https://github.com/Bakhaw/CompteFacile.git",
+  "author": "Les Suédois",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production",
